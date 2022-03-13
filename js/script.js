@@ -77,3 +77,12 @@ $(document).ready(function() {
         $("#eight").hide();
     });
 
+    //submit message
+    $("form#my-form").submit(function(event) {
+        event.preventDefault();
+        var name = $("#name").val();
+        alert("Dear " + name + " we have received your message. Thank you for reaching out to us.");
+        document.getElementById("my-form").reset();
+    })
+});
+
