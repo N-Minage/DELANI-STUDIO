@@ -33,7 +33,7 @@ git clone https://github.com/N-Minage/DELANI-STUDIO.git
 
 #### **Contact**
 >Neema Minage- minageneema98@gmail.com <br>
->Live Link: 
+>Live Link: https://n-minage.github.io/DELANI-STUDIO/
 
 #### **Copyright & License**
 Distributed under the MIT License. See LICENSE for more information on license and copyright. 
